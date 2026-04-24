@@ -1,5 +1,5 @@
 {
-  "version": "8.7",
+  "version": "8.6",
   "changelog": "SSPOT shift type integration, MET capacity allocation, roster-based supply/gap, per-shift absence rates",
   "downloadUrl": "https://axzile.corp.amazon.com/-/carthamus/download_script/alpx-hc-calculator.user.js"
 }
